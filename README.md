@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonas1101011 (Jonathan Stavasz Ochinski)
-- 👀 I’m interested in  Programação.
-- 🌱 I’m currently learnin  Desenvolvimento de Sistemas pela Uninter
+- 👀 I’m interestd in  Programação.
+- 🌱 I’m currently learnin  Técnico em Desenvolvimento de Sistemas pela Uninter.
 - 💞️ I’m looking to collaborate on  TI.
 - 📫 How to reach me: pelo  e-mail jonathanstavasz.sms@gmail.com
 <!---
